@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Zilla slab';
+}
+body {
+    background-color: #99A1A6;
+}
+header {
+    background-color: #654F6F;
+    width: 100%;
+    position: fixed;
+    font-size: 30px;
+    font-weight: 300;
+}
+nav {
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: 10px;
+    font-weight: 100;
+    align-items: center;
+}
+h3 {
+    font-size: 20px;
+    font-weight: 150;
+}
